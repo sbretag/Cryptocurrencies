@@ -9,6 +9,17 @@ Accountability Accounting, a prominent investment bank, is interested in offerin
 
 ## Resources
   - Software: Python & Jupyter Lab
-  - Code:
-  - Data Source:
+  - [Crypto Ipynb](https://github.com/sbretag/Cryptocurrencies/blob/main/Notebooks/crypto_clustering.ipynb)
+  - [Crypto Data Source](https://github.com/sbretag/Cryptocurrencies/blob/main/Resources/crypto_data.csv)
 
+
+## Results
+
+### Elbow Curve
+![image](https://github.com/sbretag/Cryptocurrencies/blob/main/Images/ElbowCurve.png)
+### 3D Scatterplot
+![image](https://github.com/sbretag/Cryptocurrencies/blob/main/Images/3D_ScatterPlot_Clusters.png)
+### Table
+![image](https://github.com/sbretag/Cryptocurrencies/blob/main/Images/Table.png)
+### 2D Scatterplot
+![image](https://github.com/sbretag/Cryptocurrencies/blob/main/Images/2D_Scatter_Plot.png)
